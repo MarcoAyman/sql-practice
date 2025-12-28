@@ -4,7 +4,7 @@ My journey learning SQL with practice code, notes, and projects.
 
 ## 📚 What's Inside
 
-## 📘 SQL Beginner Tutorial (`SQL_Beg_TUT.sql`)
+## 📘 SQL Beginner Tutorial
 
 This script covers fundamental to intermediate SQL concepts using a sample employee database.
 
@@ -28,8 +28,8 @@ This script covers fundamental to intermediate SQL concepts using a sample emplo
 - **String Functions:** `CONCAT`, `UPPER`, `LOWER`, `TRIM`
 - **Calling Procedures:** `CALL procedure_name()`
 
-### **Usage:**
-Run in MySQL with the `Parks_and_Recreation` database (or adjust schema references as needed).
+### Course
+- [Course 1](https://github.com/MarcoAyman/sql-practice/tree/0150a4201a34944df0d7da3b71275cd09f910105/Course_1)
 ### Projects
 - [E-commerce Database](projects/ecommerce_db/)
 - [Employee Management System](projects/employee_management/)
