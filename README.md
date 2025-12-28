@@ -12,6 +12,8 @@ My journey learning SQL with practice code, notes, and projects.
 - [Basic Queries](exercises/basic_queries.sql)
 - [Join Practice](Notes & Exercises/DATA_CLEANING.sql)
 - [Real-world Problems]
+Notes & Exercises
+https://github.com/MarcoAyman/sql-practice/tree/308aa2e92de56d28b4a736962680c40986d942c3/Notes%20%26%20Exercises
 
 ### Projects
 - [E-commerce Database](projects/ecommerce_db/)
