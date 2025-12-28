@@ -4,15 +4,14 @@ My journey learning SQL with practice code, notes, and projects.
 
 ## 📚 What's Inside
 
-### Notes
+### Notes & Exercises
 - [Basics](notes/basics.md) - SELECT, WHERE, ORDER BY, etc.
 - [Joins](notes/joins.md) - INNER, LEFT, RIGHT, FULL joins
 - [Advanced Topics](notes/advanced.md) - CTEs, Window Functions, Indexes
-
-### Exercises
+- 
 - [Basic Queries](exercises/basic_queries.sql)
-- [Join Practice](exercises/joins_exercises.sql)
-- [Real-world Problems](exercises/challenges.sql)
+- [Join Practice](Notes & Exercises/DATA_CLEANING.sql)
+- [Real-world Problems]
 
 ### Projects
 - [E-commerce Database](projects/ecommerce_db/)
