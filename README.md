@@ -4,16 +4,32 @@ My journey learning SQL with practice code, notes, and projects.
 
 ## 📚 What's Inside
 
-### Notes & Exercises
-- [Basics](notes/basics.md) - SELECT, WHERE, ORDER BY, etc.
-- [Joins](notes/joins.md) - INNER, LEFT, RIGHT, FULL joins
-- [Advanced Topics](notes/advanced.md) - CTEs, Window Functions, Indexes
-- 
-- [Basic Queries](exercises/basic_queries.sql)
-- [Join Practice](https://github.com/MarcoAyman/sql-practice/tree/308aa2e92de56d28b4a736962680c40986d942c3/Notes%20%26%20Exercises)
-- [Real-world Problems]
-Notes & Exercises
+## 📘 SQL Beginner Tutorial (`SQL_Beg_TUT.sql`)
 
+This script covers fundamental to intermediate SQL concepts using a sample employee database.
+
+### **Topics Covered:**
+
+#### **🔹 DDL (Data Definition Language)**
+- **Temporary Tables:** `CREATE TEMPORARY TABLE`
+- **Stored Procedures:** `CREATE PROCEDURE`, `DELIMITER`
+- **Triggers:** `CREATE TRIGGER` (after insert)
+- **Events:** `CREATE EVENT` (scheduled tasks)
+
+#### **🔹 DML (Data Manipulation Language)**
+- **Basic Queries:** `SELECT`, `INSERT INTO`, `UPDATE`, `DELETE`
+- **Filtering:** `WHERE`, `LIKE`, `IN`, `BETWEEN`, logical operators
+- **Aggregation:** `GROUP BY`, `HAVING`, aggregate functions (`AVG`, `MAX`, `MIN`, `COUNT`, `SUM`)
+- **Joins:** `INNER JOIN`, `OUTER JOIN`, `SELF JOIN`
+- **Set Operations:** `UNION`, `UNION ALL`
+- **Subqueries:** In `WHERE` and `SELECT` clauses
+- **Window Functions:** `OVER()`, `PARTITION BY`, `ROW_NUMBER`, `RANK`, `DENSE_RANK`
+- **Conditional Logic:** `CASE` statements
+- **String Functions:** `CONCAT`, `UPPER`, `LOWER`, `TRIM`
+- **Calling Procedures:** `CALL procedure_name()`
+
+### **Usage:**
+Run in MySQL with the `Parks_and_Recreation` database (or adjust schema references as needed).
 ### Projects
 - [E-commerce Database](projects/ecommerce_db/)
 - [Employee Management System](projects/employee_management/)
