@@ -10,10 +10,9 @@ My journey learning SQL with practice code, notes, and projects.
 - [Advanced Topics](notes/advanced.md) - CTEs, Window Functions, Indexes
 - 
 - [Basic Queries](exercises/basic_queries.sql)
-- [Join Practice](Notes & Exercises/DATA_CLEANING.sql)
+- [Join Practice](https://github.com/MarcoAyman/sql-practice/tree/308aa2e92de56d28b4a736962680c40986d942c3/Notes%20%26%20Exercises)
 - [Real-world Problems]
 Notes & Exercises
-https://github.com/MarcoAyman/sql-practice/tree/308aa2e92de56d28b4a736962680c40986d942c3/Notes%20%26%20Exercises
 
 ### Projects
 - [E-commerce Database](projects/ecommerce_db/)
