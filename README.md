@@ -31,8 +31,7 @@ This script covers fundamental to intermediate SQL concepts using a sample emplo
 ### Course
 - [Course 1](https://github.com/MarcoAyman/sql-practice/tree/0150a4201a34944df0d7da3b71275cd09f910105/Course_1)
 ### Projects
-- [E-commerce Database](projects/ecommerce_db/)
-- [Employee Management System](projects/employee_management/)
+- [Cloud-Native Sales Analytics](PROJECTS/Cloud-Native Sales Analytics/)
 
 ## 🛠 Tools Used
 - MySQL
