@@ -1,9 +1,5 @@
 # 📊 SQL Mastery: Engineering & Analytical Intelligence
 
-![SQL Skills](https://img.shields.io/badge/SQL-Expertise-blue?style=for-the-badge&logo=mysql)
-![Database](https://img.shields.io/badge/Architecture-Star_Schema-orange?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Analytics-Window_Functions-green?style=for-the-badge)
-
 A comprehensive repository documenting my professional journey through SQL development, database architecture, and advanced data analytics. This project leverages a **Star Schema** retail dataset to demonstrate production-level database management, automated workflows, and high-level business insights generation.
 
 ---
